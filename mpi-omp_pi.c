@@ -43,6 +43,7 @@ int main(int argc, char *argv[])
     int threadId = omp_get_thread_num();
     int threadsTotal = omp_get_num_threads();
     int globalId = (processId * threadsTotal) + threadId;
+    // globalID identificador del hilo
     calculatePi(&local_pi[threadId], globalId, threadsTotal*numprocs);
     #pragma omp single
     {
