@@ -34,7 +34,7 @@ int main(int argc, char *argv[])
 	double local_pi[MAXTHREADS], global_pi;
 	MPI_Init(&argc, &argv);
 	MPI_Comm_size(MPI_COMM_WORLD, &numprocs); //Numero de procesos a lanzar
-  printf("comm_size: %d",MPI_Comm_size);
+  printf("comm_size: %i \n",MPI_Comm_size);
 	MPI_Comm_rank(MPI_COMM_WORLD, &processId); //Identificador del proceso
   if (processId == 0) printf("\nLaunching with %i processes", numprocs);
   global_pi = 0.0;
