@@ -33,8 +33,8 @@ int main(int argc, char *argv[])
 	double PI25DT = 3.141592653589793238462643;
 	double local_pi[MAXTHREADS], global_pi;
 	MPI_Init(&argc, &argv);
-	int a=MPI_Comm_size(MPI_COMM_WORLD, &numprocs); //Numero de procesos a lanzar
-  printf("comm_size: %d",a);
+	MPI_Comm_size(MPI_COMM_WORLD, &numprocs); //Numero de procesos a lanzar
+  printf("comm_size: %d",MPI_Comm_size);
 	MPI_Comm_rank(MPI_COMM_WORLD, &processId); //Identificador del proceso
   if (processId == 0) printf("\nLaunching with %i processes", numprocs);
   global_pi = 0.0;
