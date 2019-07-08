@@ -1,0 +1,905 @@
+RESULTADOS MPI con 5 máquinas
+
+--------Imagen 720px--------
+-------Kernel: 4 ------ No de Hilos: 1 ---------
+
+real	0m0.564s
+user	0m0.713s
+sys	0m0.365s
+-------Kernel: 6 ------ No de Hilos: 1 ---------
+
+real	0m0.544s
+user	0m0.727s
+sys	0m0.126s
+-------Kernel: 8 ------ No de Hilos: 1 ---------
+
+real	0m0.754s
+user	0m1.060s
+sys	0m0.203s
+-------Kernel: 10 ------ No de Hilos: 1 ---------
+
+real	0m0.894s
+user	0m1.357s
+sys	0m0.186s
+-------Kernel: 12 ------ No de Hilos: 1 ---------
+
+real	0m0.975s
+user	0m1.535s
+sys	0m0.165s
+-------Kernel: 14 ------ No de Hilos: 1 ---------
+
+real	0m1.248s
+user	0m2.070s
+sys	0m0.191s
+-------Kernel: 4 ------ No de Hilos: 2 ---------
+
+real	0m0.566s
+user	0m0.729s
+sys	0m0.160s
+-------Kernel: 6 ------ No de Hilos: 2 ---------
+
+real	0m0.642s
+user	0m0.881s
+sys	0m0.154s
+-------Kernel: 8 ------ No de Hilos: 2 ---------
+
+real	0m0.729s
+user	0m1.055s
+sys	0m0.170s
+-------Kernel: 10 ------ No de Hilos: 2 ---------
+
+real	0m0.865s
+user	0m1.324s
+sys	0m0.173s
+-------Kernel: 12 ------ No de Hilos: 2 ---------
+
+real	0m1.006s
+user	0m1.604s
+sys	0m0.164s
+-------Kernel: 14 ------ No de Hilos: 2 ---------
+
+real	0m1.179s
+user	0m1.911s
+sys	0m0.208s
+-------Kernel: 4 ------ No de Hilos: 3 ---------
+
+real	0m0.515s
+user	0m0.608s
+sys	0m0.180s
+-------Kernel: 6 ------ No de Hilos: 3 ---------
+
+real	0m0.582s
+user	0m0.767s
+sys	0m0.169s
+-------Kernel: 8 ------ No de Hilos: 3 ---------
+
+real	0m0.683s
+user	0m0.984s
+sys	0m0.150s
+-------Kernel: 10 ------ No de Hilos: 3 ---------
+
+real	0m0.835s
+user	0m1.233s
+sys	0m0.190s
+-------Kernel: 12 ------ No de Hilos: 3 ---------
+
+real	0m0.963s
+user	0m1.505s
+sys	0m0.180s
+-------Kernel: 14 ------ No de Hilos: 3 ---------
+
+real	0m1.141s
+user	0m1.832s
+sys	0m0.212s
+-------Kernel: 4 ------ No de Hilos: 4 ---------
+
+real	0m0.510s
+user	0m0.605s
+sys	0m0.171s
+-------Kernel: 6 ------ No de Hilos: 4 ---------
+
+real	0m0.592s
+user	0m0.734s
+sys	0m0.213s
+-------Kernel: 8 ------ No de Hilos: 4 ---------
+
+real	0m0.681s
+user	0m0.982s
+sys	0m0.149s
+-------Kernel: 10 ------ No de Hilos: 4 ---------
+
+real	0m0.842s
+user	0m1.194s
+sys	0m0.242s
+-------Kernel: 12 ------ No de Hilos: 4 ---------
+
+real	0m0.969s
+user	0m1.498s
+sys	0m0.208s
+-------Kernel: 14 ------ No de Hilos: 4 ---------
+
+real	0m1.161s
+user	0m1.890s
+sys	0m0.193s
+-------Kernel: 4 ------ No de Hilos: 5 ---------
+
+real	0m0.513s
+user	0m0.597s
+sys	0m0.194s
+-------Kernel: 6 ------ No de Hilos: 5 ---------
+
+real	0m0.594s
+user	0m0.787s
+sys	0m0.172s
+-------Kernel: 8 ------ No de Hilos: 5 ---------
+
+real	0m0.688s
+user	0m0.968s
+sys	0m0.160s
+-------Kernel: 10 ------ No de Hilos: 5 ---------
+
+real	0m0.824s
+user	0m1.213s
+sys	0m0.195s
+-------Kernel: 12 ------ No de Hilos: 5 ---------
+
+real	0m0.973s
+user	0m1.535s
+sys	0m0.162s
+-------Kernel: 14 ------ No de Hilos: 5 ---------
+
+real	0m1.179s
+user	0m1.921s
+sys	0m0.199s
+-------Kernel: 4 ------ No de Hilos: 6 ---------
+
+real	0m0.523s
+user	0m0.614s
+sys	0m0.185s
+-------Kernel: 6 ------ No de Hilos: 6 ---------
+
+real	0m0.583s
+user	0m0.766s
+sys	0m0.156s
+-------Kernel: 8 ------ No de Hilos: 6 ---------
+
+real	0m0.683s
+user	0m0.951s
+sys	0m0.180s
+-------Kernel: 10 ------ No de Hilos: 6 ---------
+
+real	0m0.826s
+user	0m1.267s
+sys	0m0.144s
+-------Kernel: 12 ------ No de Hilos: 6 ---------
+
+real	0m0.999s
+user	0m1.555s
+sys	0m0.205s
+-------Kernel: 14 ------ No de Hilos: 6 ---------
+
+real	0m1.191s
+user	0m1.992s
+sys	0m0.146s
+-------Kernel: 4 ------ No de Hilos: 7 ---------
+
+real	0m0.501s
+user	0m0.620s
+sys	0m0.139s
+-------Kernel: 6 ------ No de Hilos: 7 ---------
+
+real	0m0.582s
+user	0m0.775s
+sys	0m0.149s
+-------Kernel: 8 ------ No de Hilos: 7 ---------
+
+real	0m0.701s
+user	0m0.923s
+sys	0m0.239s
+-------Kernel: 10 ------ No de Hilos: 7 ---------
+
+real	0m0.831s
+user	0m1.258s
+sys	0m0.160s
+-------Kernel: 12 ------ No de Hilos: 7 ---------
+
+real	0m0.999s
+user	0m1.540s
+sys	0m0.192s
+-------Kernel: 14 ------ No de Hilos: 7 ---------
+
+real	0m1.197s
+user	0m1.974s
+sys	0m0.177s
+-------Kernel: 4 ------ No de Hilos: 8 ---------
+
+real	0m0.537s
+user	0m0.641s
+sys	0m0.179s
+-------Kernel: 6 ------ No de Hilos: 8 ---------
+
+real	0m0.599s
+user	0m0.766s
+sys	0m0.189s
+-------Kernel: 8 ------ No de Hilos: 8 ---------
+
+real	0m0.739s
+user	0m1.047s
+sys	0m0.186s
+-------Kernel: 10 ------ No de Hilos: 8 ---------
+
+real	0m0.844s
+user	0m1.240s
+sys	0m0.198s
+-------Kernel: 12 ------ No de Hilos: 8 ---------
+
+real	0m0.989s
+user	0m1.568s
+sys	0m0.167s
+-------Kernel: 14 ------ No de Hilos: 8 ---------
+
+real	0m1.186s
+user	0m1.988s
+sys	0m0.144s
+-------Kernel: 4 ------ No de Hilos: 9 ---------
+
+real	0m0.527s
+user	0m0.659s
+sys	0m0.156s
+-------Kernel: 6 ------ No de Hilos: 9 ---------
+
+real	0m0.592s
+user	0m0.759s
+sys	0m0.178s
+-------Kernel: 8 ------ No de Hilos: 9 ---------
+
+real	0m0.690s
+user	0m0.987s
+sys	0m0.156s
+-------Kernel: 10 ------ No de Hilos: 9 ---------
+
+real	0m0.832s
+user	0m1.196s
+sys	0m0.215s
+-------Kernel: 12 ------ No de Hilos: 9 ---------
+
+real	0m1.002s
+user	0m1.569s
+sys	0m0.170s
+-------Kernel: 14 ------ No de Hilos: 9 ---------
+
+real	0m1.174s
+user	0m1.934s
+sys	0m0.172s
+-------Kernel: 4 ------ No de Hilos: 10 ---------
+
+real	0m0.516s
+user	0m0.635s
+sys	0m0.148s
+-------Kernel: 6 ------ No de Hilos: 10 ---------
+
+real	0m0.606s
+user	0m0.782s
+sys	0m0.177s
+-------Kernel: 8 ------ No de Hilos: 10 ---------
+
+real	0m0.695s
+user	0m1.005s
+sys	0m0.141s
+-------Kernel: 10 ------ No de Hilos: 10 ---------
+
+real	0m0.844s
+user	0m1.239s
+sys	0m0.197s
+-------Kernel: 12 ------ No de Hilos: 10 ---------
+
+real	0m0.989s
+user	0m1.561s
+sys	0m0.175s
+-------Kernel: 14 ------ No de Hilos: 10 ---------
+
+real	0m1.183s
+user	0m1.925s
+sys	0m0.205s
+--------Imagen 1080px--------
+-------Kernel: 4 ------ No de Hilos: 1 ---------
+
+real	0m0.754s
+user	0m1.036s
+sys	0m0.227s
+-------Kernel: 6 ------ No de Hilos: 1 ---------
+
+real	0m0.873s
+user	0m1.281s
+sys	0m0.224s
+-------Kernel: 8 ------ No de Hilos: 1 ---------
+
+real	0m1.080s
+user	0m1.742s
+sys	0m0.172s
+-------Kernel: 10 ------ No de Hilos: 1 ---------
+
+real	0m1.401s
+user	0m2.315s
+sys	0m0.250s
+-------Kernel: 12 ------ No de Hilos: 1 ---------
+
+real	0m1.740s
+user	0m3.064s
+sys	0m0.180s
+-------Kernel: 14 ------ No de Hilos: 1 ---------
+
+real	0m2.207s
+user	0m3.947s
+sys	0m0.217s
+-------Kernel: 4 ------ No de Hilos: 2 ---------
+
+real	0m0.723s
+user	0m1.009s
+sys	0m0.191s
+-------Kernel: 6 ------ No de Hilos: 2 ---------
+
+real	0m0.904s
+user	0m1.364s
+sys	0m0.208s
+-------Kernel: 8 ------ No de Hilos: 2 ---------
+
+real	0m1.116s
+user	0m1.823s
+sys	0m0.169s
+-------Kernel: 10 ------ No de Hilos: 2 ---------
+
+real	0m1.445s
+user	0m2.440s
+sys	0m0.207s
+-------Kernel: 12 ------ No de Hilos: 2 ---------
+
+real	0m1.805s
+user	0m3.162s
+sys	0m0.200s
+-------Kernel: 14 ------ No de Hilos: 2 ---------
+
+real	0m2.210s
+user	0m3.968s
+sys	0m0.201s
+-------Kernel: 4 ------ No de Hilos: 3 ---------
+
+real	0m0.712s
+user	0m0.951s
+sys	0m0.215s
+-------Kernel: 6 ------ No de Hilos: 3 ---------
+
+real	0m0.863s
+user	0m1.283s
+sys	0m0.206s
+-------Kernel: 8 ------ No de Hilos: 3 ---------
+
+real	0m1.090s
+user	0m1.715s
+sys	0m0.218s
+-------Kernel: 10 ------ No de Hilos: 3 ---------
+
+real	0m1.374s
+user	0m2.333s
+sys	0m0.173s
+-------Kernel: 12 ------ No de Hilos: 3 ---------
+
+real	0m1.718s
+user	0m3.015s
+sys	0m0.185s
+-------Kernel: 14 ------ No de Hilos: 3 ---------
+
+real	0m2.185s
+user	0m3.924s
+sys	0m0.208s
+-------Kernel: 4 ------ No de Hilos: 4 ---------
+
+real	0m0.665s
+user	0m0.914s
+sys	0m0.174s
+-------Kernel: 6 ------ No de Hilos: 4 ---------
+
+real	0m0.862s
+user	0m1.263s
+sys	0m0.220s
+-------Kernel: 8 ------ No de Hilos: 4 ---------
+
+real	0m1.072s
+user	0m1.725s
+sys	0m0.188s
+-------Kernel: 10 ------ No de Hilos: 4 ---------
+
+real	0m1.400s
+user	0m2.368s
+sys	0m0.192s
+-------Kernel: 12 ------ No de Hilos: 4 ---------
+
+real	0m1.751s
+user	0m3.100s
+sys	0m0.170s
+-------Kernel: 14 ------ No de Hilos: 4 ---------
+
+real	0m2.186s
+user	0m3.931s
+sys	0m0.187s
+-------Kernel: 4 ------ No de Hilos: 5 ---------
+
+real	0m0.684s
+user	0m0.956s
+sys	0m0.168s
+-------Kernel: 6 ------ No de Hilos: 5 ---------
+
+real	0m0.852s
+user	0m1.301s
+sys	0m0.158s
+-------Kernel: 8 ------ No de Hilos: 5 ---------
+
+real	0m1.097s
+user	0m1.777s
+sys	0m0.178s
+-------Kernel: 10 ------ No de Hilos: 5 ---------
+
+real	0m1.377s
+user	0m2.330s
+sys	0m0.196s
+-------Kernel: 12 ------ No de Hilos: 5 ---------
+
+real	0m1.785s
+user	0m3.133s
+sys	0m0.189s
+-------Kernel: 14 ------ No de Hilos: 5 ---------
+
+real	0m2.223s
+user	0m3.967s
+sys	0m0.238s
+-------Kernel: 4 ------ No de Hilos: 6 ---------
+
+real	0m0.668s
+user	0m0.898s
+sys	0m0.198s
+-------Kernel: 6 ------ No de Hilos: 6 ---------
+
+real	0m0.842s
+user	0m1.235s
+sys	0m0.203s
+-------Kernel: 8 ------ No de Hilos: 6 ---------
+
+real	0m1.122s
+user	0m1.823s
+sys	0m0.168s
+-------Kernel: 10 ------ No de Hilos: 6 ---------
+
+real	0m1.399s
+user	0m2.406s
+sys	0m0.149s
+-------Kernel: 12 ------ No de Hilos: 6 ---------
+
+real	0m1.768s
+user	0m3.109s
+sys	0m0.190s
+-------Kernel: 14 ------ No de Hilos: 6 ---------
+
+real	0m2.187s
+user	0m3.951s
+sys	0m0.185s
+-------Kernel: 4 ------ No de Hilos: 7 ---------
+
+real	0m0.682s
+user	0m0.900s
+sys	0m0.211s
+-------Kernel: 6 ------ No de Hilos: 7 ---------
+
+real	0m0.862s
+user	0m1.294s
+sys	0m0.182s
+-------Kernel: 8 ------ No de Hilos: 7 ---------
+
+real	0m1.104s
+user	0m1.768s
+sys	0m0.195s
+-------Kernel: 10 ------ No de Hilos: 7 ---------
+
+real	0m1.412s
+user	0m2.352s
+sys	0m0.235s
+-------Kernel: 12 ------ No de Hilos: 7 ---------
+
+real	0m1.774s
+user	0m3.077s
+sys	0m0.224s
+-------Kernel: 14 ------ No de Hilos: 7 ---------
+
+real	0m2.195s
+user	0m3.936s
+sys	0m0.199s
+-------Kernel: 4 ------ No de Hilos: 8 ---------
+
+real	0m0.703s
+user	0m1.017s
+sys	0m0.149s
+-------Kernel: 6 ------ No de Hilos: 8 ---------
+
+real	0m0.853s
+user	0m1.273s
+sys	0m0.190s
+-------Kernel: 8 ------ No de Hilos: 8 ---------
+
+real	0m1.109s
+user	0m1.775s
+sys	0m0.190s
+-------Kernel: 10 ------ No de Hilos: 8 ---------
+
+real	0m1.417s
+user	0m2.412s
+sys	0m0.187s
+-------Kernel: 12 ------ No de Hilos: 8 ---------
+
+real	0m1.776s
+user	0m3.102s
+sys	0m0.208s
+-------Kernel: 14 ------ No de Hilos: 8 ---------
+
+real	0m2.308s
+user	0m4.175s
+sys	0m0.192s
+-------Kernel: 4 ------ No de Hilos: 9 ---------
+
+real	0m0.729s
+user	0m1.016s
+sys	0m0.188s
+-------Kernel: 6 ------ No de Hilos: 9 ---------
+
+real	0m0.871s
+user	0m1.319s
+sys	0m0.189s
+-------Kernel: 8 ------ No de Hilos: 9 ---------
+
+real	0m1.122s
+user	0m1.856s
+sys	0m0.144s
+-------Kernel: 10 ------ No de Hilos: 9 ---------
+
+real	0m1.449s
+user	0m2.411s
+sys	0m0.198s
+-------Kernel: 12 ------ No de Hilos: 9 ---------
+
+real	0m1.806s
+user	0m3.166s
+sys	0m0.198s
+-------Kernel: 14 ------ No de Hilos: 9 ---------
+
+real	0m2.105s
+user	0m3.716s
+sys	0m0.249s
+-------Kernel: 4 ------ No de Hilos: 10 ---------
+
+real	0m0.630s
+user	0m0.803s
+sys	0m0.212s
+-------Kernel: 6 ------ No de Hilos: 10 ---------
+
+real	0m0.847s
+user	0m1.256s
+sys	0m0.204s
+-------Kernel: 8 ------ No de Hilos: 10 ---------
+
+real	0m0.836s
+user	0m1.198s
+sys	0m0.219s
+-------Kernel: 10 ------ No de Hilos: 10 ---------
+
+real	0m1.195s
+user	0m1.969s
+sys	0m0.172s
+-------Kernel: 12 ------ No de Hilos: 10 ---------
+
+real	0m1.168s
+user	0m1.886s
+sys	0m0.190s
+-------Kernel: 14 ------ No de Hilos: 10 ---------
+
+real	0m1.406s
+user	0m2.364s
+sys	0m0.184s
+--------Imagen 4K--------
+-------Kernel: 4 ------ No de Hilos: 1 ---------
+
+real	0m3.282s
+user	0m5.417s
+sys	0m0.895s
+-------Kernel: 6 ------ No de Hilos: 1 ---------
+
+real	0m5.251s
+user	0m9.517s
+sys	0m0.717s
+-------Kernel: 8 ------ No de Hilos: 1 ---------
+
+real	0m6.363s
+user	0m11.731s
+sys	0m0.718s
+-------Kernel: 10 ------ No de Hilos: 1 ---------
+
+real	0m12.655s
+user	0m24.224s
+sys	0m0.831s
+-------Kernel: 12 ------ No de Hilos: 1 ---------
+
+real	0m15.950s
+user	0m30.967s
+sys	0m0.653s
+-------Kernel: 14 ------ No de Hilos: 1 ---------
+
+real	0m20.817s
+user	0m40.799s
+sys	0m0.564s
+-------Kernel: 4 ------ No de Hilos: 2 ---------
+
+real	0m4.134s
+user	0m7.406s
+sys	0m0.564s
+-------Kernel: 6 ------ No de Hilos: 2 ---------
+
+real	0m6.143s
+user	0m11.401s
+sys	0m0.616s
+-------Kernel: 8 ------ No de Hilos: 2 ---------
+
+real	0m8.809s
+user	0m16.672s
+sys	0m0.655s
+-------Kernel: 10 ------ No de Hilos: 2 ---------
+
+real	0m12.362s
+user	0m23.737s
+sys	0m0.717s
+-------Kernel: 12 ------ No de Hilos: 2 ---------
+
+real	0m16.274s
+user	0m31.627s
+sys	0m0.676s
+-------Kernel: 14 ------ No de Hilos: 2 ---------
+
+real	0m21.164s
+user	0m41.476s
+sys	0m0.591s
+-------Kernel: 4 ------ No de Hilos: 3 ---------
+
+real	0m4.030s
+user	0m7.263s
+sys	0m0.506s
+-------Kernel: 6 ------ No de Hilos: 3 ---------
+
+real	0m6.208s
+user	0m11.512s
+sys	0m0.609s
+-------Kernel: 8 ------ No de Hilos: 3 ---------
+
+real	0m8.672s
+user	0m16.536s
+sys	0m0.537s
+-------Kernel: 10 ------ No de Hilos: 3 ---------
+
+real	0m12.199s
+user	0m23.518s
+sys	0m0.598s
+-------Kernel: 12 ------ No de Hilos: 3 ---------
+
+real	0m16.455s
+user	0m32.063s
+sys	0m0.586s
+-------Kernel: 14 ------ No de Hilos: 3 ---------
+
+real	0m21.413s
+user	0m41.935s
+sys	0m0.616s
+-------Kernel: 4 ------ No de Hilos: 4 ---------
+
+real	0m4.204s
+user	0m7.493s
+sys	0m0.645s
+-------Kernel: 6 ------ No de Hilos: 4 ---------
+
+real	0m6.194s
+user	0m11.528s
+sys	0m0.583s
+-------Kernel: 8 ------ No de Hilos: 4 ---------
+
+real	0m8.864s
+user	0m16.934s
+sys	0m0.487s
+-------Kernel: 10 ------ No de Hilos: 4 ---------
+
+real	0m12.332s
+user	0m23.870s
+sys	0m0.555s
+-------Kernel: 12 ------ No de Hilos: 4 ---------
+
+real	0m16.488s
+user	0m32.227s
+sys	0m0.476s
+-------Kernel: 14 ------ No de Hilos: 4 ---------
+
+real	0m21.671s
+user	0m42.443s
+sys	0m0.644s
+-------Kernel: 4 ------ No de Hilos: 5 ---------
+
+real	0m3.925s
+user	0m7.114s
+sys	0m0.487s
+-------Kernel: 6 ------ No de Hilos: 5 ---------
+
+real	0m6.169s
+user	0m11.521s
+sys	0m0.538s
+-------Kernel: 8 ------ No de Hilos: 5 ---------
+
+real	0m8.897s
+user	0m16.962s
+sys	0m0.554s
+-------Kernel: 10 ------ No de Hilos: 5 ---------
+
+real	0m12.352s
+user	0m23.865s
+sys	0m0.564s
+-------Kernel: 12 ------ No de Hilos: 5 ---------
+
+real	0m16.819s
+user	0m32.807s
+sys	0m0.569s
+-------Kernel: 14 ------ No de Hilos: 5 ---------
+
+real	0m21.914s
+user	0m42.806s
+sys	0m0.737s
+-------Kernel: 4 ------ No de Hilos: 6 ---------
+
+real	0m4.143s
+user	0m7.458s
+sys	0m0.581s
+-------Kernel: 6 ------ No de Hilos: 6 ---------
+
+real	0m6.131s
+user	0m11.376s
+sys	0m0.622s
+-------Kernel: 8 ------ No de Hilos: 6 ---------
+
+real	0m9.054s
+user	0m17.220s
+sys	0m0.623s
+-------Kernel: 10 ------ No de Hilos: 6 ---------
+
+real	0m12.497s
+user	0m24.045s
+sys	0m0.672s
+-------Kernel: 12 ------ No de Hilos: 6 ---------
+
+real	0m16.782s
+user	0m32.655s
+sys	0m0.621s
+-------Kernel: 14 ------ No de Hilos: 6 ---------
+
+real	0m21.912s
+user	0m42.827s
+sys	0m0.710s
+-------Kernel: 4 ------ No de Hilos: 7 ---------
+
+real	0m4.031s
+user	0m7.148s
+sys	0m0.626s
+-------Kernel: 6 ------ No de Hilos: 7 ---------
+
+real	0m6.148s
+user	0m11.500s
+sys	0m0.553s
+-------Kernel: 8 ------ No de Hilos: 7 ---------
+
+real	0m9.012s
+user	0m17.104s
+sys	0m0.645s
+-------Kernel: 10 ------ No de Hilos: 7 ---------
+
+real	0m12.417s
+user	0m23.962s
+sys	0m0.569s
+-------Kernel: 12 ------ No de Hilos: 7 ---------
+
+real	0m16.907s
+user	0m32.891s
+sys	0m0.619s
+-------Kernel: 14 ------ No de Hilos: 7 ---------
+
+real	0m21.906s
+user	0m43.005s
+sys	0m0.538s
+-------Kernel: 4 ------ No de Hilos: 8 ---------
+
+real	0m4.231s
+user	0m7.589s
+sys	0m0.576s
+-------Kernel: 6 ------ No de Hilos: 8 ---------
+
+real	0m6.197s
+user	0m11.562s
+sys	0m0.563s
+-------Kernel: 8 ------ No de Hilos: 8 ---------
+
+real	0m9.059s
+user	0m17.265s
+sys	0m0.592s
+-------Kernel: 10 ------ No de Hilos: 8 ---------
+
+real	0m12.480s
+user	0m24.091s
+sys	0m0.600s
+-------Kernel: 12 ------ No de Hilos: 8 ---------
+
+real	0m17.056s
+user	0m33.217s
+sys	0m0.616s
+-------Kernel: 14 ------ No de Hilos: 8 ---------
+
+real	0m21.905s
+user	0m42.801s
+sys	0m0.712s
+-------Kernel: 4 ------ No de Hilos: 9 ---------
+
+real	0m4.126s
+user	0m7.386s
+sys	0m0.609s
+-------Kernel: 6 ------ No de Hilos: 9 ---------
+
+real	0m6.286s
+user	0m11.653s
+sys	0m0.669s
+-------Kernel: 8 ------ No de Hilos: 9 ---------
+
+real	0m9.035s
+user	0m17.251s
+sys	0m0.557s
+-------Kernel: 10 ------ No de Hilos: 9 ---------
+
+real	0m12.576s
+user	0m24.290s
+sys	0m0.606s
+-------Kernel: 12 ------ No de Hilos: 9 ---------
+
+real	0m16.880s
+user	0m32.822s
+sys	0m0.619s
+-------Kernel: 14 ------ No de Hilos: 9 ---------
+
+real	0m22.014s
+user	0m43.050s
+sys	0m0.678s
+-------Kernel: 4 ------ No de Hilos: 10 ---------
+
+real	0m4.235s
+user	0m7.603s
+sys	0m0.592s
+-------Kernel: 6 ------ No de Hilos: 10 ---------
+
+real	0m6.383s
+user	0m11.753s
+sys	0m0.748s
+-------Kernel: 8 ------ No de Hilos: 10 ---------
+
+real	0m9.094s
+user	0m17.282s
+sys	0m0.623s
+-------Kernel: 10 ------ No de Hilos: 10 ---------
+
+real	0m12.587s
+user	0m24.345s
+sys	0m0.558s
+-------Kernel: 12 ------ No de Hilos: 10 ---------
+
+real	0m16.927s
+user	0m32.985s
+sys	0m0.585s
+-------Kernel: 14 ------ No de Hilos: 10 ---------
+
+real	0m21.740s
+user	0m42.569s
+sys	0m0.618s
