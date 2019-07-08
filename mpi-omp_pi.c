@@ -33,16 +33,17 @@ int main(int argc, char *argv[])
 	double PI25DT = 3.141592653589793238462643;
 	double local_pi[MAXTHREADS], global_pi;
 	MPI_Init(&argc, &argv);
-	MPI_Comm_size(MPI_COMM_WORLD, &numprocs);
-	MPI_Comm_rank(MPI_COMM_WORLD, &processId);
+	MPI_Comm_size(MPI_COMM_WORLD, &numprocs); //Numero de procesos a lanzar
+	MPI_Comm_rank(MPI_COMM_WORLD, &processId); //Identificador del proceso
   if (processId == 0) printf("\nLaunching with %i processes", numprocs);
   global_pi = 0.0;
 
-  #pragma omp parallel num_threads(4)
+  #pragma omp parallel num_threads(5)
   {
     int threadId = omp_get_thread_num();
     int threadsTotal = omp_get_num_threads();
     int globalId = (processId * threadsTotal) + threadId;
+    // globalID identificador del hilo
     calculatePi(&local_pi[threadId], globalId, threadsTotal*numprocs);
     #pragma omp single
     {

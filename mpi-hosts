@@ -6,9 +6,9 @@ localhost slots=2
 # The following slave nodes are single processor machines:
 #cluster-nodo1
 #cluster-nodo2
-10.128.0.14   slots=2
-10.128.0.15   slots=2
-10.128.0.16   slots=2
-10.128.0.17   slots=2
-10.128.0.18   slots=2
-10.128.0.19   slots=2
+
+10.128.0.15 slots=2
+10.128.0.16 slots=2
+10.128.0.17 slots=2
+10.128.0.18 slots=2
+
