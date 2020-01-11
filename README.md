@@ -1,2 +1,1 @@
-# paralela-practica-4
-practica 4- computación distribuida en MPI
+# Difuminado de imagenes en MPI
